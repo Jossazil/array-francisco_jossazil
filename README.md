@@ -11,5 +11,5 @@ Nesta atividade, foi criado um programa em Python chamado **array.py** que:
 
 ## Como executar o programa
 1. Certifique-se de ter o **Python 3** instalado no seu computador.  
-2. Clone este repositório ou baixe os arquivos.  
+2. Copie este repositório ou baixe os arquivos.  
 3. No terminal, entre na pasta do projeto e execute
